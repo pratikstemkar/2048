@@ -1,2 +1,2 @@
-# shell
-shell made in C
+# 2048
+2048 game implementation in C
